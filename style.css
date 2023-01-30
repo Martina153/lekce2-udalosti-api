@@ -109,6 +109,13 @@ li {
 	border-color: orange;
 }
 
+.mujstyl {
+	padding: 100px;
+	background-color: yellow;
+	color: red;
+	border-color: orange;
+}
+
 .zeleny {
 	background-color: greenyellow;
 	color: black;
@@ -120,4 +127,12 @@ li {
 	background-color: cyan;
 	color: black;
 	border-color: blue;
+}
+
+.csstrida{
+	color: blue;
+}
+
+.mojaTrieda{
+	color: red;
 }
